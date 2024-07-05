@@ -1,9 +1,9 @@
 import React from "react";
 
-import fbIcon from "../assets/facebook-icon.svg";
-import ghIcon from "../assets/github-icon.svg";
-import igIcon from "../assets/instagram-icon.svg";
-import ltIcon from "../assets/linktree.svg";
+import fbIcon from "/facebook-icon.svg";
+import ghIcon from "/github-icon.svg";
+import igIcon from "/instagram-icon.svg";
+import ltIcon from "/linktree.svg";
 
 export default function Footer() {
   return (
